@@ -70,6 +70,7 @@ endmodule
 ![Screenshot 2024-09-23 114210](https://github.com/user-attachments/assets/77297aec-bccc-41cb-a087-f1013bc75d38)
 
 **RESULTS**
+
 the implementation of the encoder 8 to 3 dataflow modeling using verilog was verified succesfully
 
 
