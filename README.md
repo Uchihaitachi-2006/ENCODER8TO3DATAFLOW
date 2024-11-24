@@ -51,8 +51,8 @@ Figure 02  Encoder 8 * 3
 **PROGRAM**
 
 
-## Developed by: SAI GURU CHANDRAN G
-## RegisterNumber: 212223240143
+## Developed by: PAWAN CHARAN
+## RegisterNumber: 212223220074
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. */
 ```
 module ENCODER(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
